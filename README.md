@@ -14,6 +14,23 @@ I encourage contributions, suggestions, and constructive criticism from all quar
 
 Remember, this is a collaborative effort: Together, we can!
 
+Additional Disclaimer: Educational Purpose and Current Limitations
+
+Learning Opportunity:
+
+It is important to emphasize that the HeartRiskPredictor project is foremost a learning opportunity. As a first-year AI student, my primary goal is to explore and understand the complexities of machine learning in a real-world context. This project serves as a platform for academic exploration and growth, both for myself and for any contributors who join this journey.
+
+Non-Commercial and Experimental Stage:
+
+As of now, there is no intention to publish HeartRiskPredictor as a stable, fully-developed algorithm, nor to promote it as a working healthcare solution. The project is in an experimental stage, functioning primarily as a tool for data analysis and probabilistic outcomes based on the input data. It is a work-in-progress, reflective of my current stage of learning and understanding in the field of AI and machine learning.
+
+Not for Official Diagnosis:
+
+Crucially, HeartRiskPredictor should not be used as a tool for official medical diagnosis. The outputs of this project, while based on data analysis, are probabilistic in nature and are not substitutes for professional medical advice, diagnosis, or treatment. The intention of this project is not to provide medical diagnoses, but rather to contribute to the field of data-driven health risk analysis as a learning exercise.
+
+Users and contributors should be aware of these limitations and should not rely on this tool for any medical or clinical decisions. The project is a stepping stone in a broader learning process, and its current state reflects the beginning of a journey rather than a completed destination.
+
+
 
 HeartRiskPredictor: Machine Learning for Heart Attack Prediction
 
