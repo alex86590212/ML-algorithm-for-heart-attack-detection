@@ -30,17 +30,15 @@ Crucially, HeartRiskPredictor should not be used as a tool for official medical 
 
 Users and contributors should be aware of these limitations and should not rely on this tool for any medical or clinical decisions. The project is a stepping stone in a broader learning process, and its current state reflects the beginning of a journey rather than a completed destination.
 
-
-
 HeartRiskPredictor: Machine Learning for Heart Attack Prediction
 
 Overview
 
-HeartRiskPredictor is an innovative machine learning project developed in the wake of a personal tragedy. It is designed to assess the risk of heart attacks in individuals by analyzing their health data, with a focus on pre-existing diseases. This project aims to provide a proactive tool for early heart attack risk detection, potentially saving lives through timely intervention.
+HeartRiskPredictor is a machine learning project developed in the wake of a personal tragedy. It is designed to assess the risk of heart attacks in individuals by analyzing their health data, with a focus on pre-existing diseases. This project aims to provide a proactive tool for early heart attack risk detection, potentially saving lives through timely intervention.
 
-Why HeartRiskPredictor is Useful
+Objective : 
 
-Heart attacks are one of the leading causes of death worldwide, often occurring unexpectedly. However, certain pre-existing conditions can increase the risk of a heart attack. This project harnesses the power of machine learning to analyze these risk factors, providing a quantifiable risk assessment. This tool can be particularly useful for healthcare professionals, individuals with a history of heart-related diseases, and researchers in the medical field.
+The objective of this project is to determine if such an algorithm is possible and efficient. Our objective is *NOT* to publish, use or market such an algorithm as a innovative solution to todays problems. So please keep that in mind
 
 Data Preparation:
 
