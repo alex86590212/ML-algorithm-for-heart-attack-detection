@@ -1,4 +1,4 @@
-# ML-algorithm-for-heart-attack-detection
+# HeartRiskPredictor
 
 Disclaimer
 Important Notice to All Users and Contributors:
